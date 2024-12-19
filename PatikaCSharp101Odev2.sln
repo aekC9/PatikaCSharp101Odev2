@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35506.116 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatikaCSharp101Odev2Soru1", "PatikaCSharp101Odev2\PatikaCSharp101Odev2Soru1.csproj", "{2F865338-1415-44E7-949F-C128FEDC07C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatikaCSharp101Odev2Soru2", "PatikaCSharp101Odev2Soru2\PatikaCSharp101Odev2Soru2.csproj", "{BFF9A974-7CAB-4E6F-97B0-4BAB794D8826}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatikaCSharp101Odev2Soru3", "PatikaCSharp101Odev2Soru3\PatikaCSharp101Odev2Soru3.csproj", "{805F24C4-358F-4BFB-ABB6-3D67ED3CA3B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F865338-1415-44E7-949F-C128FEDC07C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F865338-1415-44E7-949F-C128FEDC07C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F865338-1415-44E7-949F-C128FEDC07C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F865338-1415-44E7-949F-C128FEDC07C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFF9A974-7CAB-4E6F-97B0-4BAB794D8826}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFF9A974-7CAB-4E6F-97B0-4BAB794D8826}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFF9A974-7CAB-4E6F-97B0-4BAB794D8826}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFF9A974-7CAB-4E6F-97B0-4BAB794D8826}.Release|Any CPU.Build.0 = Release|Any CPU
+		{805F24C4-358F-4BFB-ABB6-3D67ED3CA3B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{805F24C4-358F-4BFB-ABB6-3D67ED3CA3B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{805F24C4-358F-4BFB-ABB6-3D67ED3CA3B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{805F24C4-358F-4BFB-ABB6-3D67ED3CA3B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
